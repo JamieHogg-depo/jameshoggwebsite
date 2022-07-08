@@ -2,6 +2,9 @@
 bio: I am a current PhD student interested in spatial statistics and Bayesian modeling. 
 education:
   courses:
+  - course: Doctor of Philosophy
+    institution: School of Mathematical Sciences, Queensland University of Technology
+    year: 
   - course: Masters of Biostatistics
     institution: University of Queensland
     year: 2020
@@ -12,8 +15,11 @@ email: ""
 highlight_name: true
 interests:
 - Spatial statistics
+- hierarchical/multilevel models
 - R and tidyverse
-- Bayesian inference and Stan
+- Bayesian inference
+- Stan
+- hiking (specifically in Nepal)
 organizations:
 - name: Queensland University of Technology
   url: https://www.qut.edu.au/
@@ -38,6 +44,6 @@ superuser: true
 title: James Hogg
 ---
 
-James Hogg is a PhD student at the Queensland University of Technology.
+James (Jamie) Hogg is a statistician and researcher at the Queensland University of Technology, Australia. Jamie is currently undertaking his PhD in small area estimation, spatial modeling and index construction. His work will be used in the second phase of the Australian Cancer Atlas (ACA). See the internationally-renowned first release of the ACA [here](https://atlas.cancer.org.au/). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
