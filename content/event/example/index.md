@@ -8,27 +8,20 @@ address:
   street: 
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2022-11-15"
+date_end:
 event: ECR Epidemiology Conference
 event_url: 
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+image: 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 location: Virtual
 projects:
-- example
 publishDate: "2022-11-15T00:00:00Z"
-slides: example
-summary: An example talk using Wowchemy's Markdown slides feature.
+slides:
+summary: 
 tags: []
-title: Risk factors and the Australian Cancer Atlas -- the trepidation of instability and sparsity in small area estimation
+title: Risk factors and the Australian Cancer Atlas - the trepidation of instability and sparsity in small area estimation
 url_code: ""
 url_pdf: ""
 url_slides: ""
