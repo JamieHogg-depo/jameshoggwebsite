@@ -10,18 +10,48 @@ all_day: false
 authors: []
 date: "2022-11-15"
 date_end:
-event: ECR Epidemiology Conference
+event: ECR Cancer Epidemiology Conference
 event_url: 
 featured: false
 image: 
 links:
 location: Virtual
 projects:
-publishDate: "2022-11-15T00:00:00Z"
+publishDate: "2022-11-15T09:00:00Z"
 slides:
-summary: 
+summary: ECR Cancer Epidemiology Conference
 tags: []
 title: Risk factors and the Australian Cancer Atlas - the trepidation of instability and sparsity in small area estimation
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
+
+---
+abstract: 
+address:
+  city: 
+  country: 
+  postcode: 
+  region: 
+  street: 
+all_day: false
+authors: []
+date: "2022-11-15"
+date_end:
+event: ISBA World Meeting 2022
+event_url: 
+featured: false
+image: 
+links:
+location: Montreal, Canada
+projects:
+publishDate: "2022-11-15T09:00:00Z"
+slides:
+summary: ISBA Worl Meeting 2022
+tags: []
+title: Small area estimation
 url_code: ""
 url_pdf: ""
 url_slides: ""
