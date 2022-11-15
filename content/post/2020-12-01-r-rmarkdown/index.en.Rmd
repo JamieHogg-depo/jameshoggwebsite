@@ -12,4 +12,11 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # ISBA 2022
 
-I was super fortunate to be able to attend ISBA2022 in the beautiful Canada city of Montreal. 
+I was super fortunate to be able to attend ISBA2022 in the beautiful Canada city of Montreal. This was a fantastic experience overall, except that I got covid. 
+
+There were some highlights:
+
+* Stan [meeting](https://twitter.com/JamieAHogg/status/1542349690506706944?s=20&t=6iiKHyW8iHtImDpqxV40SA)
+* Modular modelling
+* Sensitivity and prior choices
+* StanConnect2022 (see some posts on twitter [here](https://twitter.com/JamieAHogg/status/1587039993247465478?s=20&t=6iiKHyW8iHtImDpqxV40SA))
