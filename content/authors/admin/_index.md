@@ -19,7 +19,8 @@ interests:
 - R and tidyverse
 - Bayesian inference
 - Stan
-- hiking (specifically in Nepal)
+- Hiking (specifically in Nepal)
+- Solid funk grooves
 organizations:
 - name: Queensland University of Technology
   url: https://www.qut.edu.au/
