@@ -28,7 +28,7 @@ publishDate: "2022-11-15T00:00:00Z"
 slides: example
 summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []
-title: Risk factors and the Australian Cancer Atlas: the trepidation of instability and sparsity in small area estimation
+title: Risk factors and the Australian Cancer Atlas -- the trepidation of instability and sparsity in small area estimation
 url_code: ""
 url_pdf: ""
 url_slides: ""
