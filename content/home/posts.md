@@ -1,7 +1,9 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+
+#widget: pages
+active: false
 
 # This file represents a page section.
 headless: false
@@ -9,7 +11,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 60
 
-title: Posts
+title: posts
 subtitle:
 
 content:
