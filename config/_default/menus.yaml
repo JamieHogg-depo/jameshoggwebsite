@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: cv
-    url: https://github.com/JamieHogg-depo/cv_rmarkdown/blob/main/CV_mark.pdf #uploads/cv.pdf
+    url: https://github.com/JamieHogg-depo/cv_rmarkdown/blob/main/JamesHoggCV.pdf #uploads/cv.pdf
     weight: 20
   # - name: Publications
   #   url: '#featured'
