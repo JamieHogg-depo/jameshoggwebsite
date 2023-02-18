@@ -8,7 +8,7 @@ header:
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
-#   url: https://twitter.com/georgecushen
+#   url: https://atlas.cancer.org.au/
 #slides: example
 summary: Details on the Australian Cancer Atlas
 tags:
@@ -22,7 +22,8 @@ url_slides: ""
 url_video: ""
 ---
 
-Ahh snap! Looks like I haven't gotten round to finishing this page yet. Please check back later.
+
+Details on the internationally-renowned Australian Cancer Atlas (ACA) can be found [here](https://atlas.cancer.org.au/). I implore you to check it out now... because it's soon getting a major makeover! 
   
 
 <!--{{% staticref "uploads/brag_20221116.pdf" %}}Slides{{% /staticref %}} for my BRAG talk on the topic can be found here.-->

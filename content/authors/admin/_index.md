@@ -44,7 +44,8 @@ superuser: true
 title: James Hogg
 ---
 
-Hello there! Welcome to my site. I will be your host; James (Jamie) Hogg, an early career statistician, researcher and music-enthusiasts at the Queensland University of Technology, Australia. This website is an public display of my day-to-day statistical explorations (via blogposts); which may be pointless or pointful, but necessary for my (and hopefully your!) continued development as a statistician and researcher. 
+Hello there! Welcome to my site. I will be your host; James (Jamie) Hogg, an early career statistician, researcher and music-enthusiasts at the Queensland University of Technology, Australia. 
+<!-- This website is an public display of my day-to-day statistical explorations (via blogposts); which may be pointless or pointful, but necessary for my (and hopefully your!) continued development as a statistician and researcher. --> 
 
 I am currently undertaking a PhD that focusses on small area estimation and spatial modeling. My work will be used in the second phase of the internationally-renowned Australian Cancer Atlas (ACA). Seriously, check it out [here](https://atlas.cancer.org.au/)! 
 
@@ -52,7 +53,7 @@ In addition to my PhD work, I have been involved in other [projects](project)
 - I have been a Research Assistant at QUT for a small project on the effects of the modifiable areal unit problem in disease mapping applications.
 - I currently work with the Department of Health Western Australia (DOHWA) on Bayesian spatio-temporal modeling. I initially complete a three month paid internship with the DOHWA in 2021 and now work in a consultation capacity on a casual basis.
 
-In general, I enjoy learning new things, programming with R and the tidyverse, and Bayesian hierarchical modeling. I am huge fan of [Stan](https://mc-stan.org/) and helped to organise and host the [2022 StanConnect](https://github.com/stan-dev/connect22-space-time) conference. 
+I enjoy learning new statistical techniques, programming with R and the tidyverse, and Bayesian hierarchical modeling. I am huge fan of [Stan](https://mc-stan.org/) and helped to organise and host the [2022 StanConnect](https://github.com/stan-dev/connect22-space-time) conference. 
 
 I am a huge advocate of effective communication and enjoy exploring means to disseminate statistical findings to the public to affect real change in public health. 
 
